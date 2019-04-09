@@ -1,2 +1,2 @@
-# Windows-Host-File
+# Windows Host File
 Edit your Windows host file.
